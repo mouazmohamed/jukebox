@@ -1,0 +1,15 @@
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\bin\Debug\TP_JukeBox.exe.config
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\bin\Debug\TP_JukeBox.exe
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\bin\Debug\TP_JukeBox.pdb
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\obj\Debug\TP_JukeBox.csproj.AssemblyReference.cache
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\obj\Debug\TP_JukeBox.csproj.SuggestedBindingRedirects.cache
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\obj\Debug\TP_JukeBox.csproj.CoreCompileInputs.cache
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\obj\Debug\TP_JukeBox.exe
+F:\BTS_SIO_JJR\Programmation\BTSSIO2\TP\TP_JukeBox\TP_JukeBox\obj\Debug\TP_JukeBox.pdb
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\bin\Debug\TP_JukeBox.exe.config
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\bin\Debug\TP_JukeBox.exe
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\bin\Debug\TP_JukeBox.pdb
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\obj\Debug\TP_JukeBox.csproj.AssemblyReference.cache
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\obj\Debug\TP_JukeBox.csproj.CoreCompileInputs.cache
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\obj\Debug\TP_JukeBox.exe
+C:\Users\mouaz\OneDrive\Documents\Portfolio_GitLab\TP_Jukebox_App\App\obj\Debug\TP_JukeBox.pdb
